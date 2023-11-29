@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268255804827",
+    "project_id": "choochoozoo",
+    "storage_bucket": "choochoozoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268255804827:android:d9300e59c1121528e9753e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TemplateProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuC5VvVHkuYujAZMMPfa_3T0xCmPw0UgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
